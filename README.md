@@ -1,6 +1,8 @@
-### 🤖 Robojumper (Under development)
+### 🤖 Robojumper 
 
 A 2D Unity platformer where you play as a **small robot** with the goal of **reaching a specially marked platform** in each level.
+
+❗️ **Under development.**
 
 ---
 
